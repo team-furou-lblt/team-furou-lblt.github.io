@@ -1,0 +1,35 @@
+<local:MyCard Title="欢迎使用氪客户端" Margin="0,0,0,15" CanSwap="True" IsSwaped="True">
+	<StackPanel Margin="25,40,23,15">
+		<local:MyHint Text="泄露Beta或者Dev版本死妈!!!" />
+		<local:MyHint Margin="0,8,0,2" IsWarn="False"
+                    Text="当前版本:BN 3.01-build398&#xA;本端完全公益,Beta版纯图一乐,买了没啥用,Dev版仅供Developer测试,不予公开" />
+        <TextBlock TextWrapping="Wrap" Margin="0,6,0,0"
+                    Text="Make by sysedge" />
+	</StackPanel>
+</local:MyCard>
+<local:MyCard Title="关于与鸣谢" Margin="0,0,0,15" CanSwap="True" IsSwaped="True">
+	<StackPanel Margin="25,40,23,15">
+        <TextBlock TextWrapping="Wrap" Margin="0,6,0,0"
+                    Text="关于" />
+		<local:MyHint Margin="0,8,0,2" IsWarn="False"
+                    Text="版本信息:BN 3.01-build398&#xA;Powerd by PCL2" />
+        <TextBlock TextWrapping="Wrap" Margin="0,6,0,0"
+                    Text="鸣谢" />
+		<local:MyHint Margin="0,8,0,2" IsWarn="False"
+                    Text="作者:sysedge&#xA;开发人员:Wpkooo、So_Cute_Hamster、五字花、Nykrop、hiiunicorrn&#xA;Krypton On Top!!!" />
+        <TextBlock TextWrapping="Wrap" Margin="0,6,0,0"
+                    Text="Thanks for use." />
+	</StackPanel>
+</local:MyCard>
+<local:MyCard Title="Krypton BRAND NEW" Margin="0,0,0,15" CanSwap="True" IsSwaped="True">
+	<StackPanel Margin="25,40,23,15">
+        <TextBlock TextWrapping="Wrap" Margin="0,6,0,0"
+                    Text="Krypton Client BRAND NEW" />
+		<local:MyHint Margin="0,8,0,2" IsWarn="False"
+                    Text="强力胶水封你jb!!!" />
+        <TextBlock TextWrapping="Wrap" Margin="0,6,0,0"
+                    Text="你被后门了哈哈哈" />
+		<local:MyHint Margin="0,8,0,2" IsWarn="False"
+                    Text="你已被我后门" />
+	</StackPanel>
+</local:MyCard>
